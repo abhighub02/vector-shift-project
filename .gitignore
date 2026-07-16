@@ -24,3 +24,6 @@ __pycache__/
 
 # Claude Code local settings
 .claude/
+
+# Assessment brief (not for the public repo)
+VectorShift - Frontend Technical Assessment Instructions.pdf
